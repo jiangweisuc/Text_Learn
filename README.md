@@ -1,2 +1,4 @@
 # Text_Learn
-文本学习
+目的：文本学习 
+Created by jiang @20170823
+
